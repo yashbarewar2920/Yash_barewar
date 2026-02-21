@@ -35,4 +35,4 @@ I am a dedicated Finance student currently pursuing my **BBA (2nd Year)**. My go
 ## 📬 Let's Connect
 - **LinkedIn:** www.linkedin.com/in/yash-barewar-
 - **Email:** yashbarewar06@gmail.com
-*"Data-driven decisions, market-focused research."*
+- *"Data-driven decisions, market-focused research."*
